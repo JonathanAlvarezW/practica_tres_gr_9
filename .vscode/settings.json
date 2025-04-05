@@ -1,0 +1,19 @@
+{
+    "dbcode.connections": [
+        {
+            "connectionId": "x4HjE09K-BIk1_GS0dto5",
+            "name": "postgres_grupo9",
+            "driver": "postgres",
+            "connectionType": "host",
+            "host": "localhost",
+            "port": 5432,
+            "ssl": false,
+            "username": "postgres",
+            "password": "",
+            "savePassword": "secretStorage",
+            "database": "phishing_data",
+            "readOnly": false,
+            "connectionTimeout": 30
+        }
+    ]
+}
